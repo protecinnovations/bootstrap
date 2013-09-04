@@ -632,7 +632,7 @@
 
 // Large screen / wide desktop
 //@container-large-desktop:      ((1140px + @grid-gutter-width));
-@container-large-desktop: 	   100%;
+@container-large-destop: 	   100%;
 @container-lg:                 @container-large-desktop;
 
 // Font-Awesome
